@@ -1,0 +1,16 @@
+{
+  "name": "karaoke",
+  "version": "0.0.0",
+  "description": "karaoke app with Snips",
+  "main": "karaoke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "menoude",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "omx-interface": "git+https://git@github.com/snipsco-forks/node-omx-interface.git",
+    "pureimage": "^0.1.6"
+  }
+}

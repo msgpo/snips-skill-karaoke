@@ -1,2 +1,2 @@
-# snips-skill-karaoke
-Karaoke skill for Raspberry Pi using Snips
+# karaoke
+Karaoke app with Snips voice assistant
