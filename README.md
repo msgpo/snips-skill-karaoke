@@ -14,4 +14,4 @@ Please see the [Contribution Guidelines](https://github.com/snipsco-samples/snip
 
 ## Copyright
 
-This library is provided by [Snips](https://www.snips.ai) as Open Source software. See [LICENSE](https://github.com/snipsco/snips-skill-karaoke/blob/master/LICENSE) for more information.
+This library is provided by [Snips](https://www.snips.ai) as Open Source software. See [LICENSE](https://github.com/snipsco-samples/snips-skill-karaoke/blob/master/LICENSE) for more information.
